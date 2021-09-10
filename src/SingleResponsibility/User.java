@@ -31,8 +31,8 @@ public class User {
 
     User(){
         setUserId(1357);
-        setName("paras");
-        setAddress("delhi");
+        setName("Paras Jain");
+        setAddress("Delhi");
         setContactNumber(987654367);
     }
 
